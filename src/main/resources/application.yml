@@ -1,0 +1,8 @@
+# 应用服务 WEB 访问端口
+server:
+  port: 8080
+spring:
+  data:
+    mongodb:
+      uri: mongodb://njuer:njuer@39.105.123.254:27017/njuCloud?authSource=admin&readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false
+
